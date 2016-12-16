@@ -8,7 +8,7 @@ Preview demo here:
 
 ### Using the App
 
-To use the app simply pass in a URL as a parameter as so:
+Follow the below syntax to apply markup to your text:
 ```
 Heading
 =======
