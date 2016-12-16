@@ -4,9 +4,7 @@
 
 Realtime markdown previewer written in React. 
 Preview demo here: 
-```
 [https://markdownpreviewerreact.herokuapp.com/](https://markdownpreviewerreact.herokuapp.com/)
-```
 
 ### Using the App
 
